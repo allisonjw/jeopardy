@@ -2,10 +2,11 @@
 View the live page [here.](./src/index.html);
 
 # Developers
-* Brady Bridges [GitHub Page](https://github.com/bradybridges)
-* Kayla Lawson [GitHub Page](https://github.com/KaylaLawson)
-* Lacy Rudd [GitHub Page](https://github.com/dawnlunacy?tab=repositories)
-* Allison Wagner [GitHub Page](https://github.com/allisonjw)
+* [Allison Wagner](https://github.com/allisonjw)
+* [Brady Bridges](https://github.com/bradybridges)
+* [Kayla Lawson](https://github.com/KaylaLawson)
+* [Lacy Rudd](https://github.com/dawnlunacy?tab=repositories)
+
 
 ## Table of contents
 * [Objective](#Objective)
@@ -47,9 +48,13 @@ npm install
 1. To verify that it is setup correctly, run `npm start` in your terminal. Go to `http://localhost:8080/` and you should see the page.
 
 ## Screenshots
+### Login Page
 ![Splash Page](https://github.com/bradybridges/jeopardy/blob/master/src/images/splash.png)
+### Round One User View
 ![Round1](https://github.com/bradybridges/jeopardy/blob/master/src/images/round1.png)
+### Round Three User View
 ![Round3](https://github.com/bradybridges/jeopardy/blob/master/src/images/round3.png)
+### Winner User View
 ![Winner](https://github.com/bradybridges/jeopardy/blob/master/src/images/winner.png)
 
 
